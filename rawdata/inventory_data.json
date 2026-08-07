@@ -133,5 +133,14 @@
     "warehouse": "kolkata#",
     "cost_price": "$250",
     "available": "yes"
+  },
+    {
+    "product_id": "P016",
+    "productName": "Infinix Zero 5G",
+    "stock": " 11 ",
+    "last_stocked": "23/07/2023",
+    "warehouse": "Bengaluru#",
+    "cost_price": "2500",
+    "available": "Yes"
   }
 ]
