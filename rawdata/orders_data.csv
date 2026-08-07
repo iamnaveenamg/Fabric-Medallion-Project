@@ -14,3 +14,5 @@ Order_ID,cust_id,Product_Name,Qty,Order_Date,Order_Amount$,Delivery_Status,Payme
 1013,C013,Asus ROG Phone,Three,2023.07.10,Rs.59999,Delivered,cash,bangalore!,rog@@phone,,9
 1014,C014,Google Pixel 6a,1,07/15/2023,$449,Cancelled,debit,Hyderabad$,pixel@google,PIXELNEW,7
 1015,C015,Sony Xperia 5,2,15-07-2023,Rs 65000,Delivering,credit,coimbatore@,sony@xperia,,
+1016,C016,Infinix Zero 5G,,06-07-2023,USD 3999,pending,Credit Card,sector-56 gurgaon,realme@site,SAVE10,4
+
